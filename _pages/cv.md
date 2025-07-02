@@ -8,12 +8,21 @@ redirect_from:
 ---
 
 {% include base_path %}
+# heading
+## head
+
+1. babo
+2. hh
+
+- fff
+- rrr
+
+
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematical Sciences, Probability Theory, Seoul National University, 2025
+* B.S. in Mathematics, HanYang University, Seoul 2020
 
 Work experience
 ======
